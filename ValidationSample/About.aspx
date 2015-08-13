@@ -1,4 +1,5 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPages/FrontEnd.Master" AutoEventWireup="true" CodeBehind="About.aspx.cs" Inherits="ValidationSample.About" %>
+
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     <title>About Me</title>
 </asp:Content>
